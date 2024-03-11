@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oscar
 - 👀 I’m interested in development NodeJs API and frontend development
 - 💞️ I’m looking to collaborate on API integration and full stack development.
-- 📫 How to reach me webemergencies@gmail.com
+- 📫 How to reach me ideallgoldoscar@protonmail.com
 
 
 ## Features
